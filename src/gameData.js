@@ -151,9 +151,9 @@ movie: {
 
     clues: [
       {
-        image: "/clues/ml.jpg",
-        text: "Machine Learning"
-      },
+  image: `${process.env.PUBLIC_URL}/clues/ml.jpg`,
+  text: "Machine Learning"
+},
       {
          image: "/clues/cb.jpg",
         text: "Chatbots"
