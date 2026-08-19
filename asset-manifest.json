@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Clue_Battle/static/css/main.e07611eb.css",
-    "main.js": "/Clue_Battle/static/js/main.66793dc3.js",
+    "main.js": "/Clue_Battle/static/js/main.85a5bf0a.js",
     "index.html": "/Clue_Battle/index.html",
     "main.e07611eb.css.map": "/Clue_Battle/static/css/main.e07611eb.css.map",
-    "main.66793dc3.js.map": "/Clue_Battle/static/js/main.66793dc3.js.map"
+    "main.85a5bf0a.js.map": "/Clue_Battle/static/js/main.85a5bf0a.js.map"
   },
   "entrypoints": [
     "static/css/main.e07611eb.css",
-    "static/js/main.66793dc3.js"
+    "static/js/main.85a5bf0a.js"
   ]
 }
