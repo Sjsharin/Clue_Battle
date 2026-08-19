@@ -151,7 +151,7 @@ movie: {
 
     clues: [
       {
-        image: "/clues/gg.jpg",
+        image: "/clues/ml.jpg",
         text: "Machine Learning"
       },
       {
