@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Clue_Battle/static/css/main.e07611eb.css",
+    "main.js": "/Clue_Battle/static/js/main.b953131b.js",
+    "index.html": "/Clue_Battle/index.html",
+    "main.e07611eb.css.map": "/Clue_Battle/static/css/main.e07611eb.css.map",
+    "main.b953131b.js.map": "/Clue_Battle/static/js/main.b953131b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e07611eb.css",
+    "static/js/main.b953131b.js"
+  ]
+}
