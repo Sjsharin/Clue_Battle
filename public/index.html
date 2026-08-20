@@ -1,6 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+
+    <script>
+  const params = new URLSearchParams(window.location.search);
+  const route = params.get("route");
+
+  if (route) {
+    window.history.replaceState(
+      null,
+      "",
+      "/Clue_Battle" + route
+    );
+  }
+</script>
+
+
     <meta charset="utf-8" />
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
